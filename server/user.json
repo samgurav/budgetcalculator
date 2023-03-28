@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "password": "$2a$10$36K7.7g20wnrQ7/2jvFf7OrGG8oQXmwjRn2OvcXmuQM0qNQJcJsT2",
+      "email": "sam@gmail.com",
+      "fname": "sam",
+      "lname": "gurav",
+      "username": "sam",
+      "budget": [],
+      "id": 1
+    },
+    {
+      "fname": "Samiksha",
+      "lname": "Gurav",
+      "uername": "118091882179258551331",
+      "email": "guravsamiksha17@gmail.com",
+      "password": "socialLogin",
+      "totalbudget": 0,
+      "balance": 0,
+      "budget": [],
+      "id": 2
+    }
+  ]
+}
